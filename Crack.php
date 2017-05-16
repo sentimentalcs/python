@@ -25,10 +25,12 @@ class Crack
            'http://club.autohome.com.cn/bbs/thread-c-2990-62844785-1.html',
        ];
 
-       $str = file_get_contents('./saved.html');
+//       $str = file_get_contents('./saved.html');
 //       $str = self::curl_get($url1[5]);
-       $str = self::get_complete_text_autohome($str);
+//       $str = self::get_complete_text_autohome($str);
 //       echo $str;
+        $js = file_get_contents('./mix.js');
+         var_dump(self::get_chars($js));
 //       self::save_to_file($str);
 //       echo $str;
        exit;
@@ -99,7 +101,7 @@ class Crack
      * @param $js        js代码
      * @return array     返回反爬虫的字符串数组
      */
-    private static function get_chars($js)
+    public static function get_chars($js)
     {
         $all_var = [];
 
@@ -343,7 +345,7 @@ class Crack
             $js = str_replace($var_name, $var_value, $js);
         }
 //         echo '<pre>';
-//         print_r($all_var);
+         print_r($js);
 //         echo '</pre>';
 //         var_dump(count($all_var));
 //         var_dump(strlen($js));
@@ -360,7 +362,7 @@ class Crack
             $substr_js = substr($js, stripos($js, $string_m[1]) + strlen($string_m[1]) - 1);
 
             preg_match('/([\d,]+(;[\d,]+)+)/', $substr_js, $index_m);
-            var_dump($index_m);
+//            var_dump($index_m);
 //            var_dump($string);
 //            var_dump($index_m[1]);
 //            exit;
