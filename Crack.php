@@ -9,7 +9,7 @@ use QL\QueryList;
 Crack::test();
 class Crack
 {
-    const CONVERT_TO_UTF8 = true; //是否转换为utf8编码
+    const CONVERT_TO_UTF8 = false; //是否转换为utf8编码
 
     /**
      * 测试方法  输出html页面代码
@@ -24,23 +24,14 @@ class Crack
            'http://club.autohome.com.cn/bbs/thread-c-3064-42346639-1.html',
            'http://club.autohome.com.cn/bbs/thread-c-2990-62844785-1.html',
        ];
-//
-       $str = self::curl_get($url1[5]);
-//       $str = file_get_contents($url1[5]);
-       // exit;
+
+       $str = file_get_contents('./saved.html');
+//       $str = self::curl_get($url1[5]);
        $str = self::get_complete_text_autohome($str);
-       echo $str;
+//       echo $str;
+//       self::save_to_file($str);
+//       echo $str;
        exit;
-       // var_dump(mb_detect_encoding($str,'Unicode,gb2312,GBK,GB18030,utf-8'));
-       // print($str);
-       // exit;
-        //QueryList::Query(采集的目标页面,采集规则[,区域选择器][，输出编码][，输入编码][，是否移除头部])
-        //$rules = array(
-//          '规则名' => array('jQuery选择器','要采集的属性'[,"标签过滤列表"][,"回调函数"]),
-//          '规则名2' => array('jQuery选择器','要采集的属性'[,"标签过滤列表"][,"回调函数"]),
-//          ..........
-//          [,"callback"=>"全局回调函数"]
-//      );
 
         $data = QueryList::Query(
            $str,
@@ -93,15 +84,17 @@ class Crack
             $text
         ):$text;
     }
-    //    public static function save_to_file($str)
-//    {
-//        $root_path = dirname($_SERVER['SCRIPT_FILENAME']);
-//        var_dump($root_path);
-//        exit;
-////        if(!empty($str)){
-////            file_exists();
-////        }
-//    }
+
+    public static function save_to_file($str)
+    {
+        $root_path = dirname($_SERVER['SCRIPT_FILENAME']);
+        $save_path = $root_path.DIRECTORY_SEPARATOR.'saved_before.html';
+        $handle = fopen($save_path,'w');
+        if(!empty($str)){
+            fwrite($handle,$str);
+        }
+        fclose($handle);
+    }
     /**
      * @param $js        js代码
      * @return array     返回反爬虫的字符串数组
@@ -349,9 +342,12 @@ class Crack
             // var_dump($var_name.':'.$var_value);
             $js = str_replace($var_name, $var_value, $js);
         }
-        // var_dump(count($all_var));
-        // var_dump(strlen($js));
-        // exit;
+//         echo '<pre>';
+//         print_r($all_var);
+//         echo '</pre>';
+//         var_dump(count($all_var));
+//         var_dump(strlen($js));
+
 
         $js = preg_replace("/[\s+']/", "", $js);
         preg_match('/((?:%\w\w)+)/', $js, $string_m);
@@ -364,6 +360,7 @@ class Crack
             $substr_js = substr($js, stripos($js, $string_m[1]) + strlen($string_m[1]) - 1);
 
             preg_match('/([\d,]+(;[\d,]+)+)/', $substr_js, $index_m);
+            var_dump($index_m);
 //            var_dump($string);
 //            var_dump($index_m[1]);
 //            exit;
