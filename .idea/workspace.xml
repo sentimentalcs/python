@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5918c975-293b-4504-a07b-386a8b295104" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/saved.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/saved_before.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/saved_js.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test2.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Crack.php" afterPath="$PROJECT_DIR$/Crack.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mix.js" afterPath="$PROJECT_DIR$/mix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mix2.js" afterPath="$PROJECT_DIR$/mix2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new.js" afterPath="$PROJECT_DIR$/new.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,34 +23,34 @@
       <file leaf-file-name="Crack.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Crack.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="1360">
+              <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="2" selection-end-line="80" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mix.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mix.js">
+      <file leaf-file-name="autohome.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autohome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1508">
-              <caret line="1896" column="107" lean-forward="false" selection-start-line="1896" selection-start-column="104" selection-end-line="1896" selection-end-column="107" />
+            <state relative-caret-position="318">
+              <caret line="253" column="37" lean-forward="false" selection-start-line="253" selection-start-column="17" selection-end-line="253" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mix2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="1804" column="28" lean-forward="false" selection-start-line="1804" selection-start-column="25" selection-end-line="1804" selection-end-column="28" />
               <folding>
-                <marker date="1494996285638" expanded="true" signature="44097:44120" ph="..." />
-                <marker date="1494996285638" expanded="true" signature="44161:44191" ph="..." />
-                <marker date="1494996285638" expanded="true" signature="44706:44729" ph="..." />
-                <marker date="1494996285638" expanded="true" signature="44770:44800" ph="..." />
+                <marker date="1495005185423" expanded="true" signature="36654:36677" ph="..." />
+                <marker date="1495005185423" expanded="true" signature="36718:36748" ph="..." />
+                <marker date="1495005185423" expanded="true" signature="37263:37286" ph="..." />
+                <marker date="1495005185423" expanded="true" signature="37327:37357" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compiled_mix_version2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/compiled_mix_version2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32">
-              <caret line="125" column="20" lean-forward="true" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="20" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -61,23 +58,8 @@
       <file leaf-file-name="new.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7752">
-              <caret line="1015" column="9" lean-forward="false" selection-start-line="1015" selection-start-column="9" selection-end-line="1015" selection-end-column="9" />
-              <folding>
-                <marker date="1494999879547" expanded="true" signature="30507:30530" ph="..." />
-                <marker date="1494999879547" expanded="true" signature="30571:30601" ph="..." />
-                <marker date="1494999879547" expanded="true" signature="31116:31139" ph="..." />
-                <marker date="1494999879547" expanded="true" signature="31180:31210" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compiled_mix.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/compiled_mix.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="214" column="27" lean-forward="false" selection-start-line="214" selection-start-column="27" selection-end-line="214" selection-end-column="27" />
+            <state relative-caret-position="675">
+              <caret line="120" column="17" lean-forward="true" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -94,15 +76,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Ju_</find>
-      <find>eE_</find>
-      <find>Ru_</find>
-      <find>Ri_()</find>
-      <find>YD_</find>
-      <find>hs_kw</find>
-      <find>var</find>
-      <find>to_</find>
-      <find>g</find>
       <find>t</find>
       <find>%</find>
       <find>B8</find>
@@ -124,6 +97,15 @@
       <find>jN_</find>
       <find>Ib_</find>
       <find>js_</find>
+      <find>Uc_</find>
+      <find>zC_</find>
+      <find>zC_zC_</find>
+      <find>print</find>
+      <find>be_</find>
+      <find>uc_</find>
+      <find>GW_</find>
+      <find>pm_</find>
+      <find>ps_</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,7 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mix2.js" />
         <option value="$PROJECT_DIR$/test2.js" />
         <option value="$PROJECT_DIR$/saved_js.js" />
         <option value="$PROJECT_DIR$/decodeUri.js" />
@@ -140,6 +121,7 @@
         <option value="$PROJECT_DIR$/compiled_mix.js" />
         <option value="$PROJECT_DIR$/mix.js" />
         <option value="$PROJECT_DIR$/compiled_mix_version2.js" />
+        <option value="$PROJECT_DIR$/mix2.js" />
         <option value="$PROJECT_DIR$/new.js" />
         <option value="$PROJECT_DIR$/Crack.php" />
       </list>
@@ -321,7 +303,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20251000" />
+    <option name="totallyTimeSpent" value="29198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -338,13 +320,23 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23064771" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -374,11 +366,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/saved_before.html" />
     <entry file="file://$PROJECT_DIR$/Crack.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -489,7 +482,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/saved_before.html" />
-    <entry file="file://$PROJECT_DIR$/mix2.js" />
     <entry file="file://$PROJECT_DIR$/saved.html" />
     <entry file="file://$PROJECT_DIR$/test2.js" />
     <entry file="file://$PROJECT_DIR$/decodeUri.js">
@@ -503,22 +495,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/decode_mixjs.js" />
-    <entry file="file://$PROJECT_DIR$/saved_js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/autohome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4080">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/saved_js.js" />
     <entry file="file://$PROJECT_DIR$/compiled_mix.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -527,29 +504,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7752">
-          <caret line="1015" column="9" lean-forward="false" selection-start-line="1015" selection-start-column="9" selection-end-line="1015" selection-end-column="9" />
-          <folding>
-            <marker date="1494999879547" expanded="true" signature="30507:30530" ph="..." />
-            <marker date="1494999879547" expanded="true" signature="30571:30601" ph="..." />
-            <marker date="1494999879547" expanded="true" signature="31116:31139" ph="..." />
-            <marker date="1494999879547" expanded="true" signature="31180:31210" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mix.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1508">
           <caret line="1896" column="107" lean-forward="false" selection-start-line="1896" selection-start-column="104" selection-end-line="1896" selection-end-column="107" />
-          <folding>
-            <marker date="1494996285638" expanded="true" signature="44097:44120" ph="..." />
-            <marker date="1494996285638" expanded="true" signature="44161:44191" ph="..." />
-            <marker date="1494996285638" expanded="true" signature="44706:44729" ph="..." />
-            <marker date="1494996285638" expanded="true" signature="44770:44800" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -561,10 +520,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/pcre/pcre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="144" column="9" lean-forward="false" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="120" column="17" lean-forward="true" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="1804" column="28" lean-forward="false" selection-start-line="1804" selection-start-column="25" selection-end-line="1804" selection-end-column="28" />
+          <folding>
+            <marker date="1495005185423" expanded="true" signature="36654:36677" ph="..." />
+            <marker date="1495005185423" expanded="true" signature="36718:36748" ph="..." />
+            <marker date="1495005185423" expanded="true" signature="37263:37286" ph="..." />
+            <marker date="1495005185423" expanded="true" signature="37327:37357" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autohome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="253" column="37" lean-forward="false" selection-start-line="253" selection-start-column="17" selection-end-line="253" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Crack.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="1360">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="2" selection-end-line="80" selection-end-column="27" />
           <folding />
         </state>
       </provider>

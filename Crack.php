@@ -22,22 +22,24 @@ class Crack
            'http://club.autohome.com.cn/bbs/thread-c-3064-48042133-1.html',
            'club.autohome.com.cn/bbs/thread-c-3064-62447072-1.html',
            'http://club.autohome.com.cn/bbs/thread-c-3064-42346639-1.html',
-           'http://club.autohome.com.cn/bbs/thread-c-2990-62844785-1.html',
+           'http://club.autohome.com.cn/bbs/thread-c-2990-63126736-1.html',
+           'http://club.autohome.com.cn/bbs/thread-c-2990-51373939-1.html#pvareaid=2199101'
        ];
 
-       $str = file_get_contents('./saved.html');
-       $str = self::curl_get($url1[4]);
+//       $str = file_get_contents('./saved.html');
+       $str = self::curl_get($url1[6]);
        $str = self::get_complete_text_autohome($str);
-//       echo $str;
-
-        //验证js
-//        $js = file_get_contents('./mix.js');
-//        var_dump(self::get_chars($js));
-
-        //.保存文件
-        // self::save_to_file($str);
-//       echo $str;
-        exit;
+       echo $str;
+       exit;
+//
+//        //验证js
+////        $js = file_get_contents('./mix.js');
+////        var_dump(self::get_chars($js));
+////        $str = self::get_complete_text_autohome($js);
+//        //.保存文件
+//        // self::save_to_file($str);
+////       echo $str;
+//        exit;
 
         $data = QueryList::Query(
            $str,
@@ -76,19 +78,16 @@ class Crack
         } catch (\Exception $e) {
             return $text;
         }
-        var_dump($char_list);
-//        var_dump($char_list);
-//        preg_match_all('/<span\s*class=[\'\"]hs_kw(\d+)_[^\'\"]+[\'\"]><\/span>/',$text,$matches);
-//        var_dump($matches[0]);
-//        var_dump($matches[1]);
-//        exit;
-        return $char_list? preg_replace_callback(
+//    var_dump($char_list);
+
+        return  $char_list? preg_replace_callback(
             '/<span\s*class=[\'\"]hs_kw(\d+)_[^\'\"]+[\'\"]><\/span>/',
             function ($matches) use ($char_list) {
-                return $char_list[(int)$matches[1]];
+                return empty($char_list[$matches[1]])?'':$char_list[(int)$matches[1]];
             },
             $text
         ):$text;
+
     }
 
     public static function save_to_file($str)
@@ -241,7 +240,6 @@ class Crack
                     [\'\"]return\s*[^\'\"]+[\'\"];\s*
                     return\s*[\'\"]([^\'\"]+)[\'\"];\s*
                 \}\s*/x', $function, $function_name_arr);
-                print_r($function_name_arr[1]);
 //                var_dump($function_name_arr);
                 array_push($no_args_return_constant_functions, $function_name_arr);
                 $js = str_replace($function, '', $js);
@@ -307,46 +305,42 @@ class Crack
         }
 
         //获取所有变量
-        //        var_regex = "var\s+(\w+)=(.*?);\s"
-        preg_match_all('/var\s+(\w+)\s*=(.*?);\s/', $js, $l, 2);
+//        print_r($js);
+//        exit;
+//                var_regex = "var\s+(\w+)=(.*?);\s"
+        preg_match_all('/var\s+(\w+)=(.*?);\s/', $js, $l, 2);
+
+
         if (!empty($l)) {
             foreach ($l as $groups) {
-                $var_value = trim(trim(trim($groups[2]), '\'"'));
-                if (strpos($var_value, '(') !== false) {
-                    $var_value = ';';
-                }
+                    $var_value = trim(trim(trim($groups[2]), '\'"'));
+                    if (strpos($var_value, '(') !== false) {
+                        $var_value = ';';
+                    }
+
                 $all_var[$groups[1]] = $var_value;
             }
         }
-        // var_dump('js字符數'.':'.strlen($js));
-        // var_dump(count($all_var));
-         echo '<pre>';
-         print_r($all_var);
-         echo '</pre>';
-        // exit;
-//         var_dump($all_var);
-//        exit;
+
         # 注释掉 此正则可能会把关键js语句删除掉
         # js = re.sub(var_regex, "", js)
         foreach ($all_var as $var_name => $var_value) {
-            // var_dump($var_name.':'.$var_value);
             $js = str_replace($var_name, $var_value, $js);
         }
-        print_r($js);
-        $js = preg_replace("/[\s+']/", "", $js);
+//        print_r($js);
+        $js = preg_replace("/[\s\+']/", "", $js);
+        preg_match('/((?:%\w\w+)+)/',$js,$string_m);
 
-        preg_match('/((?:%\w+)+)/', $js, $string_m);
-        var_dump($string_m);
         $_word_list = [];
         if (!empty($string_m[1])) {
             // $string = mb_convert_encoding(urldecode($string_m[1]), 'UTF-8');
            $string = urldecode($string_m[1]);
-           var_dump($string);
+
             //截取后的js字符串
             $substr_js = substr($js, stripos($js, $string_m[1]) + strlen($string_m[1]) - 1);
 
             preg_match('/([\d,]+(;[\d,]+)+)/', $substr_js, $index_m);
-            var_dump($index_m);
+
             if (!empty($index_m[1])) {
                 $index_list = explode(';', $index_m[1]);
 
@@ -366,7 +360,9 @@ class Crack
                 }
             }
         }
+
         return $_word_list;
+
     }
 
     /**防止报错
