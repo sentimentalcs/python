@@ -6,7 +6,7 @@ require 'vendor/autoload.php';
 use QL\QueryList;
 
 
-Crack::test();
+//Crack::test();
 class Crack
 {
     const CONVERT_TO_UTF8 = true; //是否转换为utf8编码
