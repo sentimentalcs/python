@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5918c975-293b-4504-a07b-386a8b295104" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/saved.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/saved_before.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/saved_js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test2.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Crack.php" afterPath="$PROJECT_DIR$/Crack.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/decodeUri.js" afterPath="$PROJECT_DIR$/decodeUri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mix.js" afterPath="$PROJECT_DIR$/mix.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +22,68 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="Crack.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Crack.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mix.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mix.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1508">
+              <caret line="1896" column="107" lean-forward="false" selection-start-line="1896" selection-start-column="104" selection-end-line="1896" selection-end-column="107" />
+              <folding>
+                <marker date="1494996285638" expanded="true" signature="44097:44120" ph="..." />
+                <marker date="1494996285638" expanded="true" signature="44161:44191" ph="..." />
+                <marker date="1494996285638" expanded="true" signature="44706:44729" ph="..." />
+                <marker date="1494996285638" expanded="true" signature="44770:44800" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compiled_mix_version2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiled_mix_version2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-32">
+              <caret line="125" column="20" lean-forward="true" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7752">
+              <caret line="1015" column="9" lean-forward="false" selection-start-line="1015" selection-start-column="9" selection-end-line="1015" selection-end-column="9" />
+              <folding>
+                <marker date="1494999879547" expanded="true" signature="30507:30530" ph="..." />
+                <marker date="1494999879547" expanded="true" signature="30571:30601" ph="..." />
+                <marker date="1494999879547" expanded="true" signature="31116:31139" ph="..." />
+                <marker date="1494999879547" expanded="true" signature="31180:31210" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compiled_mix.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compiled_mix.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="214" column="27" lean-forward="false" selection-start-line="214" selection-start-column="27" selection-end-line="214" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,24 +94,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;!--@HS_ZY@--&gt;</find>
-      <find>ab_</find>
-      <find>bX_</find>
-      <find>Of_</find>
-      <find>po</find>
-      <find>cM_</find>
-      <find>ck_</find>
-      <find>ul</find>
-      <find>Pe_</find>
-      <find>al_</find>
-      <find>pw_</find>
-      <find>Ox_</find>
-      <find>op_</find>
-      <find>IL_</find>
-      <find>bo_</find>
-      <find>gS_</find>
-      <find>JM_</find>
-      <find>JQ_</find>
       <find>Ju_</find>
       <find>eE_</find>
       <find>Ru_</find>
@@ -56,6 +104,26 @@
       <find>to_</find>
       <find>g</find>
       <find>t</find>
+      <find>%</find>
+      <find>B8</find>
+      <find>qo_</find>
+      <find>zX</find>
+      <find>al_</find>
+      <find>PA_</find>
+      <find>Zu_</find>
+      <find>AA_</find>
+      <find>TB_</find>
+      <find>ze_</find>
+      <find>yO_</find>
+      <find>qD_</find>
+      <find>bo_</find>
+      <find>Ib</find>
+      <find>ib</find>
+      <find>jN</find>
+      <find>MZ_</find>
+      <find>jN_</find>
+      <find>Ib_</find>
+      <find>js_</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -65,12 +133,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/mix2.js" />
-        <option value="$PROJECT_DIR$/mix.js" />
         <option value="$PROJECT_DIR$/test2.js" />
         <option value="$PROJECT_DIR$/saved_js.js" />
         <option value="$PROJECT_DIR$/decodeUri.js" />
-        <option value="$PROJECT_DIR$/Crack.php" />
         <option value="$PROJECT_DIR$/decode_mixjs.js" />
+        <option value="$PROJECT_DIR$/compiled_mix.js" />
+        <option value="$PROJECT_DIR$/mix.js" />
+        <option value="$PROJECT_DIR$/compiled_mix_version2.js" />
+        <option value="$PROJECT_DIR$/new.js" />
+        <option value="$PROJECT_DIR$/Crack.php" />
       </list>
     </option>
   </component>
@@ -84,8 +155,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -103,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -112,17 +184,16 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -162,24 +233,15 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -191,63 +253,22 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="python" />
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -266,118 +287,21 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
       <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.autohome" />
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.Crack.php" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -392,34 +316,35 @@
       <updated>1494904045691</updated>
       <workItem from="1494944588499" duration="81000" />
       <workItem from="1494944695317" duration="7207000" />
+      <workItem from="1494985636114" duration="12963000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7288000" />
+    <option name="totallyTimeSpent" value="20251000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1830161" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23064771" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23064771" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -429,10 +354,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23064771" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1830161" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -453,34 +378,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Crack.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saved_js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saved.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="729" column="9214" lean-forward="false" selection-start-line="729" selection-start-column="9200" selection-end-line="729" selection-end-column="9214" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saved_before.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="729" column="22550" lean-forward="false" selection-start-line="729" selection-start-column="22547" selection-end-line="729" selection-end-column="22550" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/saved_before.html" />
     <entry file="file://$PROJECT_DIR$/Crack.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -488,53 +386,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-            <marker date="1494946007397" expanded="true" signature="5923:5946" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="5987:6017" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="6532:6555" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="6596:6626" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/autohome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-918">
-          <caret line="185" column="9" lean-forward="true" selection-start-line="183" selection-start-column="4" selection-end-line="185" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="1971" column="58" lean-forward="false" selection-start-line="1971" selection-start-column="55" selection-end-line="1971" selection-end-column="58" />
-          <folding>
-            <marker date="1494950071659" expanded="true" signature="43988:44011" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44052:44082" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44597:44620" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44661:44691" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="65" column="94" lean-forward="false" selection-start-line="65" selection-start-column="91" selection-end-line="65" selection-end-column="94" />
-          <folding>
-            <marker date="1494952263733" expanded="true" signature="44800:44823" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="44864:44894" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="45409:45432" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="45473:45503" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mix2.js" />
+    <entry file="file://$PROJECT_DIR$/autohome.py" />
+    <entry file="file://$PROJECT_DIR$/mix.js" />
+    <entry file="file://$PROJECT_DIR$/test2.js" />
     <entry file="file://$PROJECT_DIR$/Crack.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -549,27 +404,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saved_js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saved.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="729" column="9214" lean-forward="false" selection-start-line="729" selection-start-column="9200" selection-end-line="729" selection-end-column="9214" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saved_before.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="729" column="22550" lean-forward="false" selection-start-line="729" selection-start-column="22547" selection-end-line="729" selection-end-column="22550" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/saved_js.js" />
+    <entry file="file://$PROJECT_DIR$/saved.html" />
+    <entry file="file://$PROJECT_DIR$/saved_before.html" />
     <entry file="file://$PROJECT_DIR$/Crack.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -577,53 +414,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-            <marker date="1494946007397" expanded="true" signature="5923:5946" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="5987:6017" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="6532:6555" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="6596:6626" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="1971" column="58" lean-forward="false" selection-start-line="1971" selection-start-column="55" selection-end-line="1971" selection-end-column="58" />
-          <folding>
-            <marker date="1494950071659" expanded="true" signature="43988:44011" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44052:44082" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44597:44620" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44661:44691" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/autohome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-969">
-          <caret line="185" column="9" lean-forward="true" selection-start-line="183" selection-start-column="4" selection-end-line="185" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="7" />
-          <folding>
-            <marker date="1494952263733" expanded="true" signature="44800:44823" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="44864:44894" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="45409:45432" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="45473:45503" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mix2.js" />
+    <entry file="file://$PROJECT_DIR$/mix.js" />
+    <entry file="file://$PROJECT_DIR$/autohome.py" />
+    <entry file="file://$PROJECT_DIR$/test2.js" />
     <entry file="file://$PROJECT_DIR$/Crack.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -638,27 +432,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saved_js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saved.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="729" column="9214" lean-forward="false" selection-start-line="729" selection-start-column="9200" selection-end-line="729" selection-end-column="9214" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saved_before.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="729" column="22550" lean-forward="false" selection-start-line="729" selection-start-column="22547" selection-end-line="729" selection-end-column="22550" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/saved_js.js" />
+    <entry file="file://$PROJECT_DIR$/saved.html" />
+    <entry file="file://$PROJECT_DIR$/saved_before.html" />
     <entry file="file://$PROJECT_DIR$/Crack.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -666,53 +442,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-            <marker date="1494946007397" expanded="true" signature="5923:5946" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="5987:6017" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="6532:6555" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="6596:6626" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="2211" column="11" lean-forward="false" selection-start-line="2211" selection-start-column="8" selection-end-line="2211" selection-end-column="11" />
-          <folding>
-            <marker date="1494952263733" expanded="true" signature="44800:44823" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="44864:44894" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="45409:45432" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="45473:45503" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="1971" column="58" lean-forward="false" selection-start-line="1971" selection-start-column="55" selection-end-line="1971" selection-end-column="58" />
-          <folding>
-            <marker date="1494950071659" expanded="true" signature="43988:44011" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44052:44082" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44597:44620" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44661:44691" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/autohome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1020">
-          <caret line="185" column="9" lean-forward="true" selection-start-line="183" selection-start-column="4" selection-end-line="185" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mix2.js" />
+    <entry file="file://$PROJECT_DIR$/test2.js" />
+    <entry file="file://$PROJECT_DIR$/mix.js" />
+    <entry file="file://$PROJECT_DIR$/autohome.py" />
     <entry file="file://$PROJECT_DIR$/Crack.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -727,27 +460,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saved_js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saved.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="729" column="9214" lean-forward="false" selection-start-line="729" selection-start-column="9200" selection-end-line="729" selection-end-column="9214" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saved_before.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="729" column="22550" lean-forward="false" selection-start-line="729" selection-start-column="22547" selection-end-line="729" selection-end-column="22550" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/saved_js.js" />
+    <entry file="file://$PROJECT_DIR$/saved.html" />
+    <entry file="file://$PROJECT_DIR$/saved_before.html" />
     <entry file="file://$PROJECT_DIR$/Crack.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -755,53 +470,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mix2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-            <marker date="1494946007397" expanded="true" signature="5923:5946" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="5987:6017" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="6532:6555" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="6596:6626" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/autohome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275">
-          <caret line="185" column="9" lean-forward="true" selection-start-line="183" selection-start-column="4" selection-end-line="185" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3175">
-          <caret line="1331" column="20" lean-forward="false" selection-start-line="1331" selection-start-column="17" selection-end-line="1331" selection-end-column="20" />
-          <folding>
-            <marker date="1494952263733" expanded="true" signature="44800:44823" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="44864:44894" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="45409:45432" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="45473:45503" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-217">
-          <caret line="1849" column="11" lean-forward="false" selection-start-line="1849" selection-start-column="8" selection-end-line="1849" selection-end-column="11" />
-          <folding>
-            <marker date="1494950071659" expanded="true" signature="43988:44011" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44052:44082" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44597:44620" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44661:44691" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mix2.js" />
+    <entry file="file://$PROJECT_DIR$/autohome.py" />
+    <entry file="file://$PROJECT_DIR$/test2.js" />
+    <entry file="file://$PROJECT_DIR$/mix.js" />
     <entry file="file://$PROJECT_DIR$/Crack.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -816,54 +488,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saved_before.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="729" column="22550" lean-forward="false" selection-start-line="729" selection-start-column="22547" selection-end-line="729" selection-end-column="22550" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mix2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-            <marker date="1494946007397" expanded="true" signature="5923:5946" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="5987:6017" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="6532:6555" ph="..." />
-            <marker date="1494946007397" expanded="true" signature="6596:6626" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saved.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-837">
-          <caret line="729" column="15520" lean-forward="false" selection-start-line="729" selection-start-column="15515" selection-end-line="729" selection-end-column="15520" />
-          <folding>
-            <marker date="1494945076634" expanded="true" signature="75513:75532" ph="..." />
-            <marker date="1494945076634" expanded="true" signature="75569:75595" ph="..." />
-            <marker date="1494945076634" expanded="true" signature="75895:75914" ph="..." />
-            <marker date="1494945076634" expanded="true" signature="75951:75977" ph="..." />
-            <marker date="1494945076634" expanded="true" signature="312417:312429" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-          <folding>
-            <marker date="1494952263733" expanded="true" signature="44800:44823" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="44864:44894" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="45409:45432" ph="..." />
-            <marker date="1494952263733" expanded="true" signature="45473:45503" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/saved_before.html" />
+    <entry file="file://$PROJECT_DIR$/mix2.js" />
+    <entry file="file://$PROJECT_DIR$/saved.html" />
+    <entry file="file://$PROJECT_DIR$/test2.js" />
     <entry file="file://$PROJECT_DIR$/decodeUri.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5338">
@@ -874,53 +502,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/decode_mixjs.js" />
     <entry file="file://$PROJECT_DIR$/saved_js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-            <marker date="1494953945801" expanded="true" signature="5997:6020" ph="..." />
-            <marker date="1494953945801" expanded="true" signature="6061:6091" ph="..." />
-            <marker date="1494953945801" expanded="true" signature="6606:6629" ph="..." />
-            <marker date="1494953945801" expanded="true" signature="6670:6700" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crack.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="347" column="20" lean-forward="false" selection-start-line="347" selection-start-column="20" selection-end-line="347" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decode_mixjs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1448">
-          <caret line="247" column="24" lean-forward="true" selection-start-line="247" selection-start-column="24" selection-end-line="247" selection-end-column="24" />
+        <state relative-caret-position="136">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/autohome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="295" column="25" lean-forward="false" selection-start-line="295" selection-start-column="24" selection-end-line="295" selection-end-column="25" />
+        <state relative-caret-position="-4080">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiled_mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="214" column="27" lean-forward="false" selection-start-line="214" selection-start-column="27" selection-end-line="214" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7752">
+          <caret line="1015" column="9" lean-forward="false" selection-start-line="1015" selection-start-column="9" selection-end-line="1015" selection-end-column="9" />
+          <folding>
+            <marker date="1494999879547" expanded="true" signature="30507:30530" ph="..." />
+            <marker date="1494999879547" expanded="true" signature="30571:30601" ph="..." />
+            <marker date="1494999879547" expanded="true" signature="31116:31139" ph="..." />
+            <marker date="1494999879547" expanded="true" signature="31180:31210" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mix.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-217">
-          <caret line="1849" column="11" lean-forward="false" selection-start-line="1849" selection-start-column="8" selection-end-line="1849" selection-end-column="11" />
+        <state relative-caret-position="-1508">
+          <caret line="1896" column="107" lean-forward="false" selection-start-line="1896" selection-start-column="104" selection-end-line="1896" selection-end-column="107" />
           <folding>
-            <marker date="1494950071659" expanded="true" signature="43988:44011" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44052:44082" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44597:44620" ph="..." />
-            <marker date="1494950071659" expanded="true" signature="44661:44691" ph="..." />
+            <marker date="1494996285638" expanded="true" signature="44097:44120" ph="..." />
+            <marker date="1494996285638" expanded="true" signature="44161:44191" ph="..." />
+            <marker date="1494996285638" expanded="true" signature="44706:44729" ph="..." />
+            <marker date="1494996285638" expanded="true" signature="44770:44800" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compiled_mix_version2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="125" column="20" lean-forward="true" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crack.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
